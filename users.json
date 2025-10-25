@@ -1,0 +1,8 @@
+{
+  "superadmin": {
+    "salt": "f9990c1d054fba31368d77a49dc7febe",
+    "pwd": "af0f645231a2b10c8142b567b563bafdb483416d66d730b3e862c2aa49610505",
+    "role": "superadmin",
+    "created_at": 1760075287
+  }
+}
